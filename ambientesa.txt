@@ -1,0 +1,32 @@
+https://prehom.dpf.gov.br/siscaer
+
+https://prehom.dpf.gov.br/siscaer-internet
+
+https://prehom.dpf.gov.br/siscaer-publico-web/#/
+
+mob2
+
+Hierarquia São Paulo:
+
+
+Cadastrar com: heron.hwpb (Usuário comum)
+
+Aprovar pela AD com: estevao.egl (Autoridade Determinante)
+
+Aprovar pela AS com: rosseti.dr (Autoridade Superior)
+
+Aprovar pelo DG com: galloro.ravg (Diretor Geral)
+
+NEIVA MARQUES SOCHETE VIVAN neiva.nmsv
+rodrigo souza de oliveira rodrigo souza.rso
+
+Usuário Semob: souza.rso (Esse usuário equivale ao perfil ADM, visualiza mais menus e tem permissão para consultar qualquer ordem).
+
+Links para acesso ao sistema:
+
+PreHom: https://prehom.dpf.gov.br/mobilizacao2/inicio
+
+Homologação: https://sistemashom.dpf.gov.br/mobilizacao2/missao-policial/consultar
+
+
+
